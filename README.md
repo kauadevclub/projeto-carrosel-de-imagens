@@ -1,4 +1,5 @@
 # 🖼️ Carrossel de Imagens de jogadores
+https://projetopessoalcarroseldejogadores.netlify.app/
 
 Um carrossel de imagens moderno e interativo desenvolvido com **HTML, CSS e JavaScript**, ideal para exibir fotos, portfólios ou produtos de forma dinâmica.  
 Projeto criado para prática de animações, interatividade e design responsivo.  
